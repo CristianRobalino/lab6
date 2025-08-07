@@ -4,4 +4,4 @@ node_modules/
 *.log
 coverage/
 .DS_Store
-npm_debug.log
+npm_debug.log|
